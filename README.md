@@ -1,43 +1,45 @@
 
-# IBM-Project-40862-1660636795
+# IBM-Project-32211-1660208580
 
-# Smart Fashion Recommender Application
+# Skill / Job Recommender Application
 
 
 ## Category: Cloud App Development
 
 
-**Batch Name :** B8-2A4E
+**Batch Name :** B1-M13E
 
 ---
 
-**Team ID :** PNT2022TMID38912
+**Team ID :** PNT2022TMID19295
 
-**Team Size :** 4
+**Team Size :** 5
 
-**Team Leader :** PARAMESHWARAN V K
+**Team Leader :** Nivasan V
 
-**Team member :** MANOJ ADHITHYAN A
+**Team member :** Navinkumar P
 
-**Team member :** MOHANRAJ M
+**Team member :** Niranjan V
 
-**Team member :** DAYANITHI S
+**Team member :** Pradhapdurai A K
+
+**Team member :** Akash M
 
 ---
 **Industry Mentor(s) Name :** Krishna Chaitanya
 
-**Faculty Mentor(s) Name :** R SIVARANJINI
+**Faculty Mentor(s) Name :** Kalaiyarasi A
 
 ---
 
 **Degree	:**	
-Bachelor of Engineering/Technology
+Bachelor of Technology
 
 **Branch	:**	
-Computer Science Engineering
+Information Technology
 
 **College	:**	
-KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
+MUTHAYAMMAL ENGINEERING COLLEGE
 
 ---
 
@@ -47,17 +49,18 @@ KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 ## Assignment  
 
- - [Team Leader : PARAMESHWARAN V K](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20PARAMESHWARAN%20VK)
- - [Team member : MANOJ ADHITHYAN A](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)
- - [Team member : MOHANRAJ M](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)
- - [Team member : DAYANITHI S](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)
+ - [Team Leader : Nivasan V](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Assignment/Team%20Leader)
+ - [Team member : Navinkumar P](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Assignment/Team%20Member%20-%201%20Navinkumar)
+ - [Team member : Niranjan V](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Assignment/Team%20Member%20-%202%20Niranjan)
+ - [Team member : Pradhapdurai A K](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Assignment/Team%20Member%20-%203%20Pradhapdurai)
+ - [Team member : Akash M](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Assignment/Team%20Member%20-%204%20Akash)
 
 
 ## Project Design & Planning
-- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
-- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
-- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
-- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Project%20design%20%26%20planning/Ideation%20Phase)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Project%20design%20%26%20planning/Project%20Design%20Phase%20I)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Project%20design%20%26%20planning/Project%20Design%20Phase%20II)
+- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-32211-1660208580/tree/main/Project%20Planning%20Phase)
 
 ## Tech Stack
 
@@ -72,17 +75,8 @@ KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 ## Authors
 
-- [@Vkparamesh](https://github.com/Vkparamesh)
-- [@MANOJ ADHITHYAN](https://github.com/MANOJADHITHYAN)
-- [@DAYANITHI](https://github.com/kalaitamizhan)
-- [@MOHAN RAJ](https://github.com/mohanrajdoctor)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at parameshvk3232@gmail.com
-
-
-
-
-![Thank You :-)](https://i0.wp.com/paulaspoint.com/wp-content/uploads/2018/04/thank-you.jpg?fit=275%2C183)
+- [@Nivasan](https://github.com/NivasanV)
+- [@Navinkumar](https://github.com/Navinkumar369)
+- [@Niranjan](https://github.com/NIRANJAN2001)
+- [@Pradhapdurai](https://github.com/Pradhapdurai)
+- [@Akash](https://github.com/AkashM2175)
